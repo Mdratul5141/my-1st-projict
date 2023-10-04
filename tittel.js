@@ -1,0 +1,1 @@
+DocumentFragment.getElementByid=("rana").innerHTML="hello javascpiet"
